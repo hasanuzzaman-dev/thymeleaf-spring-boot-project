@@ -39,7 +39,7 @@ public class DummyUserInstaller {
             "outlook.com",
             "yahoo.com"
     };
-    public static final int RANDOM_USER_COUNT = 1000;
+    public static final int RANDOM_USER_COUNT = 10000;
 
     private final UserRepository userRepository;
 
